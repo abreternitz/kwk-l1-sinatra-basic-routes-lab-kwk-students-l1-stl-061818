@@ -6,6 +6,8 @@ class App < Sinatra::Base
   end
   get '/name' do
     "My name is Alice Procopio Burian Breternitz"  
+    <button name="button" >
+    
     end
   get '/hometown' do
     "I was born May 3rd, 2001 in São Paulo, SP" 
